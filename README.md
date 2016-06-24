@@ -1,2 +1,3 @@
 # hello-world
-Practice
+
+In the beginning of cat philosophy Attacatsophles, decided all cat attitudes are good.
